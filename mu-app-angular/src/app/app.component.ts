@@ -11,6 +11,6 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  //title = 'mu-app-angular';
-  title = 'homes';
+  title = 'mu-app-angular';
+  //title = 'homes';
 }
